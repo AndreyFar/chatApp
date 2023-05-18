@@ -1,0 +1,54 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.chatapp////PointingToDeclaration/app/com.example.chatapp/index.html
+$dokka.location:com.example.chatapp/ChatActivity///PointingToDeclaration/app/com.example.chatapp/-chat-activity/index.html
+$dokka.location:com.example.chatapp/ChatActivity/ChatActivity/#/PointingToDeclaration/app/com.example.chatapp/-chat-activity/-chat-activity.html
+$dokka.location:com.example.chatapp/ChatActivity/receiverRoom/#/PointingToDeclaration/app/com.example.chatapp/-chat-activity/receiver-room.html
+$dokka.location:com.example.chatapp/ChatActivity/senderRoom/#/PointingToDeclaration/app/com.example.chatapp/-chat-activity/sender-room.html
+$dokka.location:com.example.chatapp/LoginUserActivity///PointingToDeclaration/app/com.example.chatapp/-login-user-activity/index.html
+$dokka.location:com.example.chatapp/LoginUserActivity/LoginUserActivity/#/PointingToDeclaration/app/com.example.chatapp/-login-user-activity/-login-user-activity.html
+$dokka.location:com.example.chatapp/MainActivity///PointingToDeclaration/app/com.example.chatapp/-main-activity/index.html
+$dokka.location:com.example.chatapp/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.chatapp/-main-activity/-main-activity.html
+$dokka.location:com.example.chatapp/MainActivity/onCreateOptionsMenu/#android.view.Menu?/PointingToDeclaration/app/com.example.chatapp/-main-activity/on-create-options-menu.html
+$dokka.location:com.example.chatapp/MainActivity/onOptionsItemSelected/#android.view.MenuItem/PointingToDeclaration/app/com.example.chatapp/-main-activity/on-options-item-selected.html
+$dokka.location:com.example.chatapp/Message///PointingToDeclaration/app/com.example.chatapp/-message/index.html
+$dokka.location:com.example.chatapp/Message/Message/#/PointingToDeclaration/app/com.example.chatapp/-message/-message.html
+$dokka.location:com.example.chatapp/Message/Message/#kotlin.String?#kotlin.String?/PointingToDeclaration/app/com.example.chatapp/-message/-message.html
+$dokka.location:com.example.chatapp/Message/message/#/PointingToDeclaration/app/com.example.chatapp/-message/message.html
+$dokka.location:com.example.chatapp/Message/senderId/#/PointingToDeclaration/app/com.example.chatapp/-message/sender-id.html
+$dokka.location:com.example.chatapp/MessageAdapter.ReceiveViewHolder///PointingToDeclaration/app/com.example.chatapp/-message-adapter/-receive-view-holder/index.html
+$dokka.location:com.example.chatapp/MessageAdapter.ReceiveViewHolder/ReceiveViewHolder/#android.view.View/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-receive-view-holder/-receive-view-holder.html
+$dokka.location:com.example.chatapp/MessageAdapter.ReceiveViewHolder/receiveMessage/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-receive-view-holder/receive-message.html
+$dokka.location:com.example.chatapp/MessageAdapter.SentViewHolder///PointingToDeclaration/app/com.example.chatapp/-message-adapter/-sent-view-holder/index.html
+$dokka.location:com.example.chatapp/MessageAdapter.SentViewHolder/SentViewHolder/#android.view.View/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-sent-view-holder/-sent-view-holder.html
+$dokka.location:com.example.chatapp/MessageAdapter.SentViewHolder/sentMessage/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-sent-view-holder/sent-message.html
+$dokka.location:com.example.chatapp/MessageAdapter///PointingToDeclaration/app/com.example.chatapp/-message-adapter/index.html
+$dokka.location:com.example.chatapp/MessageAdapter/ITEM_RECEIVE/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-i-t-e-m_-r-e-c-e-i-v-e.html
+$dokka.location:com.example.chatapp/MessageAdapter/ITEM_SENT/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-i-t-e-m_-s-e-n-t.html
+$dokka.location:com.example.chatapp/MessageAdapter/MessageAdapter/#android.content.Context#java.util.ArrayList[com.example.chatapp.Message]/PointingToDeclaration/app/com.example.chatapp/-message-adapter/-message-adapter.html
+$dokka.location:com.example.chatapp/MessageAdapter/context/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/context.html
+$dokka.location:com.example.chatapp/MessageAdapter/getItemCount/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/get-item-count.html
+$dokka.location:com.example.chatapp/MessageAdapter/getItemViewType/#kotlin.Int/PointingToDeclaration/app/com.example.chatapp/-message-adapter/get-item-view-type.html
+$dokka.location:com.example.chatapp/MessageAdapter/messageList/#/PointingToDeclaration/app/com.example.chatapp/-message-adapter/message-list.html
+$dokka.location:com.example.chatapp/MessageAdapter/onBindViewHolder/#androidx.recyclerview.widget.RecyclerView.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.chatapp/-message-adapter/on-bind-view-holder.html
+$dokka.location:com.example.chatapp/MessageAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.chatapp/-message-adapter/on-create-view-holder.html
+$dokka.location:com.example.chatapp/SignupUserActivity///PointingToDeclaration/app/com.example.chatapp/-signup-user-activity/index.html
+$dokka.location:com.example.chatapp/SignupUserActivity/SignupUserActivity/#/PointingToDeclaration/app/com.example.chatapp/-signup-user-activity/-signup-user-activity.html
+$dokka.location:com.example.chatapp/User///PointingToDeclaration/app/com.example.chatapp/-user/index.html
+$dokka.location:com.example.chatapp/User/User/#/PointingToDeclaration/app/com.example.chatapp/-user/-user.html
+$dokka.location:com.example.chatapp/User/User/#kotlin.String?#kotlin.String?#kotlin.String/PointingToDeclaration/app/com.example.chatapp/-user/-user.html
+$dokka.location:com.example.chatapp/User/email/#/PointingToDeclaration/app/com.example.chatapp/-user/email.html
+$dokka.location:com.example.chatapp/User/name/#/PointingToDeclaration/app/com.example.chatapp/-user/name.html
+$dokka.location:com.example.chatapp/User/uniqueId/#/PointingToDeclaration/app/com.example.chatapp/-user/unique-id.html
+$dokka.location:com.example.chatapp/UserAdapter.UserViewHolder///PointingToDeclaration/app/com.example.chatapp/-user-adapter/-user-view-holder/index.html
+$dokka.location:com.example.chatapp/UserAdapter.UserViewHolder/UserViewHolder/#android.view.View/PointingToDeclaration/app/com.example.chatapp/-user-adapter/-user-view-holder/-user-view-holder.html
+$dokka.location:com.example.chatapp/UserAdapter.UserViewHolder/textName/#/PointingToDeclaration/app/com.example.chatapp/-user-adapter/-user-view-holder/text-name.html
+$dokka.location:com.example.chatapp/UserAdapter///PointingToDeclaration/app/com.example.chatapp/-user-adapter/index.html
+$dokka.location:com.example.chatapp/UserAdapter/UserAdapter/#android.content.Context#java.util.ArrayList[com.example.chatapp.User]/PointingToDeclaration/app/com.example.chatapp/-user-adapter/-user-adapter.html
+$dokka.location:com.example.chatapp/UserAdapter/context/#/PointingToDeclaration/app/com.example.chatapp/-user-adapter/context.html
+$dokka.location:com.example.chatapp/UserAdapter/getItemCount/#/PointingToDeclaration/app/com.example.chatapp/-user-adapter/get-item-count.html
+$dokka.location:com.example.chatapp/UserAdapter/onBindViewHolder/#com.example.chatapp.UserAdapter.UserViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.chatapp/-user-adapter/on-bind-view-holder.html
+$dokka.location:com.example.chatapp/UserAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.chatapp/-user-adapter/on-create-view-holder.html
+$dokka.location:com.example.chatapp/UserAdapter/userList/#/PointingToDeclaration/app/com.example.chatapp/-user-adapter/user-list.html
+com.example.chatapp
+

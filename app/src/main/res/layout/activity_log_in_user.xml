@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginUserActivity"
+    android:background="@color/purple_3">
+
+    <!-- EditText for typing user email-->
+    <EditText
+        android:id="@+id/edt_email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="@color/purple_2"
+        android:textColorHint="@color/creme"
+        android:textColor="@color/creme"
+        android:textSize="18dp"
+        android:hint="EMAIL"
+        android:letterSpacing="0.1"
+        />
+
+    <!-- EditText for typing user password-->
+    <EditText
+        android:id="@+id/edt_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/edt_email"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="@color/purple_2"
+        android:textColorHint="@color/creme"
+        android:textColor="@color/creme"
+        android:textSize="18dp"
+        android:hint="PASSWORD"
+        android:inputType="textPassword"
+        android:letterSpacing="0.1"
+        />
+
+    <!-- Button for submit user log in-->
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_password"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:text="LOG IN"
+        android:textColor="@color/purple_3"
+        android:textSize="16dp"
+        android:letterSpacing="0.05"
+        android:background="@drawable/btn_background"
+        />
+
+    <!-- Button for submit user sign up-->
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_password"
+        android:layout_toRightOf="@+id/btnLogin"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="SIGN UP"
+        android:textColor="@color/purple_3"
+        android:textSize="16dp"
+        android:letterSpacing="0.05"
+        android:background="@drawable/btn_background"
+        />
+
+
+
+</RelativeLayout>
